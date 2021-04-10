@@ -1,0 +1,4 @@
+C:\Users\leo\Desktop\store-system-list-main\Store-system-list\obj\Debug\netcoreapp3.1\Store-system-list.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\store-system-list-main\Store-system-list\obj\Debug\netcoreapp3.1\Store-system-list.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\store-system-list-main\Store-system-list\obj\Debug\netcoreapp3.1\Store-system-list.AssemblyInfo.cs
+C:\Users\leo\Desktop\store-system-list-main\Store-system-list\obj\Debug\netcoreapp3.1\Store-system-list.csproj.CoreCompileInputs.cache
